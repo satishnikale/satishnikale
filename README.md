@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satish Nikale</h1>
+<h1 align="center">Hi 👋, I'm Satish</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satishnikale&label=Profile%20views&color=0e75b6&style=flat" alt="satishnikale" /> </p>
