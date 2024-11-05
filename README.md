@@ -1,57 +1,28 @@
-# Hi there, I'm [Satish Nikale] 👋
+# Hi there, I'm Satish Nikale👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=satishnikale&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🚀 About Me
 
-I'm a **[Your Role, e.g., Software Engineer, Data Scientist]** with a passion for **[technologies or industries you're interested in, like AI, web development, etc.]**. I love to **build, learn, and grow** every day! When I'm not coding, you can find me **[another hobby or interest, like reading sci-fi or hiking]**.
+I'm a Full Stack Engineer with a passion for Web developmentm, Devops and Open Source. I love to build Full stack projects and, learn new technologies every day! When I'm not coding, you can find me Travelling, Reading.
 
-- 🔭 I’m currently working on **[Project or Area]**
-- 🌱 I’m currently learning **[Technologies or Skills]**
-- 💬 Ask me about **[Topics You’re Comfortable Discussing]**
-- 📫 Reach me: [your.email@example.com](mailto:your.email@example.com)
+- 🔭 I’m currently working on MERN stack
+- 🌱 I’m currently learning Devops
+- 💬 Ask me about MERN, DSA
+- 📫 Reach me: [satishnikale7@gmail.com](mailto:your.email@example.com)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=satishnikale&show_icons=true&theme=radical" alt="GitHub Stats" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=satishnikale&theme=radical&hide_border=true" alt="GitHub Streak" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishnikale&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
----
-
-## 🌟 Featured Projects
-
-Here are a few projects that showcase my skills and interests. Check them out below!
-
-- 📝 **[Project 1 Title](https://github.com/yourusername/project1)**  
-  _Brief description of what this project does, why it's unique or interesting._
-  
-- 📊 **[Project 2 Title](https://github.com/yourusername/project2)**  
-  _Brief description of what this project does, why it's unique or interesting._
-
-- 🌐 **[Project 3 Title](https://github.com/yourusername/project3)**  
-  _Brief description of what this project does, why it's unique or interesting._
-
-See more in my [GitHub repositories](https://github.com/yourusername?tab=repositories).
-
----
 
 ## ⚙️ Tech Stack
 
@@ -69,11 +40,11 @@ See more in my [GitHub repositories](https://github.com/yourusername?tab=reposit
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/satishnikale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/satish_nikale"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:satishnikale7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Satish Nikale](https://github.com/satishnikale)
