@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a Full Stack Engineer with a passion for Web developmentm, Devops and Open Source. I love to build Full stack projects and, learn new technologies every day! When I'm not coding, you can find me Travelling, Reading.
+I'm a Full Stack Engineer with a passion for Web development, Devops and Open Source. I love to build Full stack projects and, learn new technologies every day! When I'm not coding, you can find me Travelling, Reading.
 
 - 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning Devops
