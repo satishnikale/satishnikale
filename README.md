@@ -97,7 +97,7 @@ Outside of work: distributed systems, system design write-ups, and the occasiona
 ## Experience
 
 ```
-2024 — Present    Software Engineer Intern, EzyEV Technologies
+Dec - 2025 — Present    Software Engineer Intern, EzyEV Technologies
                    Production backend for EV platform — payments, KYC, billing
 
                    MCA — Master of Computer Applications
