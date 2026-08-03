@@ -4,7 +4,7 @@
 
 <br/>
 <a href="https://www.linkedin.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;REST+APIs+%2B+Real-time+Systems;Currently%3A+Software+Engineer+%40+EzyEV+Technologies;Docker+%2F+AWS+%2F+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;REST+APIs+%2B+Real-time+Systems;Currently%3A+Software+Engineer+%40+EzyEV;Docker+%2F+AWS+%2F+System+Design" alt="Typing SVG" />
 </a>
 
 </div>
