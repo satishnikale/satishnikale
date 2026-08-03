@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/-Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:satishnikale7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yourhandle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/yourhandle)
@@ -172,16 +172,16 @@ Production backend powering an EV services platform.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=satishnikale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishnikale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satishnikale&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=satishnikale&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" />
 
 </div>
 
@@ -190,7 +190,7 @@ Production backend powering an EV services platform.
 ## Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=satishnikale&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15" />
 </div>
 
 <br/>
@@ -198,7 +198,7 @@ Production backend powering an EV services platform.
 ## Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/satishnikale/satishnikale/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br/>
@@ -215,7 +215,7 @@ Production backend powering an EV services platform.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=38bdf8&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=satishnikale&color=38bdf8&style=flat-square&label=Profile+Views" />
 
 <br/><br/>
 
