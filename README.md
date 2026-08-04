@@ -14,11 +14,10 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:satishnikale7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/yourhandle)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-0f172a?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://hackerrank.com/yourhandle)
-[![GFG](https://img.shields.io/badge/-GeeksforGeeks-0f172a?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://geeksforgeeks.org/user/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/satishnikale)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://satish-portfolio-v1.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/satishnikale/)
+[![GFG](https://img.shields.io/badge/-GeeksforGeeks-0f172a?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://geeksforgeeks.org/profile/satishnikale)
 
 </div>
 
